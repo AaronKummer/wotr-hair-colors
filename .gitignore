@@ -1,0 +1,9 @@
+# build output
+bin/
+obj/
+*.cache
+# throwaway API-probe scripts and generated indexes
+*probe*.ps1
+_bpindex.txt
+# local staging
+_dist/

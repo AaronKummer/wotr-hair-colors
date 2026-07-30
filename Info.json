@@ -1,0 +1,9 @@
+{
+	"Id": "VVHairColors",
+	"DisplayName": "VV Hair Colors",
+	"Author": "Violet Vector",
+	"Version": "1.0.0",
+	"ManagerVersion": "0.23.0.0",
+	"Requirements": [],
+	"EntryMethod": "VVHairColors.Main.Load"
+}
